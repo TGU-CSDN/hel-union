@@ -6,4 +6,4 @@
 |--------------------------------------------------------------------------
 */
 
-export const LIB_NAME = 'hel-tpl-remote-vue3-comps-ts'
+export const LIB_NAME = 'tgucsdn-hel'

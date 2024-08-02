@@ -1,7 +1,7 @@
 {
-  "name": "hel-tpl-remote-vue3-comps-ts",
-  "appGroupName": "hel-tpl-remote-vue3-comps-ts",
-  "version": "1.4.0",
+  "name": "tgucsdn-hel",
+  "appGroupName": "tgucsdn-hel",
+  "version": "0.0.1",
   "main": "hel_proxy/entry.js",
   "module": "hel_proxy_es/entry.js",
   "types": "src/entrance/libTypes.ts",
@@ -34,6 +34,8 @@
     "core-js": "^3.8.3",
     "hel-iso": "^4.3.2",
     "hel-lib-proxy": "^4.7.0",
+    "hel-tpl-remote-vue3-comps-ts": "file:",
+    "tgucsdn-hel": "file:",
     "vue": "^3.2.13"
   },
   "peerDependencies": {
