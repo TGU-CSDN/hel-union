@@ -1,7 +1,7 @@
 {
   "name": "tgucsdn-hel",
   "appGroupName": "tgucsdn-hel",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "hel_proxy/entry.js",
   "module": "hel_proxy_es/entry.js",
   "types": "src/entrance/libTypes.ts",
